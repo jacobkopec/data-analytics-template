@@ -1,3 +1,9 @@
+# Sample data dictionary
+
+## Data Source
+- https://www.imdb.com/list/ls098063263/
+
+
 ## Data dictionary
 
 | Field        | Description                         | Sample Data         |
