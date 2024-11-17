@@ -1,0 +1,8 @@
+## Data dictionary
+
+| Field        | Description                         | Sample Data         |
+| ------------ | ----------------------------------- | ------------------- |
+| movie_rating | Rating for each movie               | Placeholder         |
+| movie_name   | Name of the movie                   | Placeholder         |
+| movie_grossing| How much the movie made all-time  | Placeholder         |
+| movie_year | release date of the film              | Placeholder         |
